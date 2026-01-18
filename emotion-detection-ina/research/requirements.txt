@@ -1,0 +1,21 @@
+# Data Manipulation & Math
+pandas
+numpy
+scipy
+
+# Machine Learning & Stratification
+scikit-learn
+iterative-stratification
+
+# Deep Learning (PyTorch & Hugging Face)
+torch
+transformers
+datasets
+
+# Visualization & Progress Bar
+matplotlib
+seaborn
+tqdm
+
+# Environment (Notebook)
+ipython
